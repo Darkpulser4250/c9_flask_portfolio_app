@@ -127,7 +127,7 @@ header .intro-text .skills {
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #18BC9C;
+  color: #33ccff;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
@@ -135,13 +135,13 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #18BC9C;
+  background: #33ccff;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #18BC9C;
+  background: #33ccff;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -151,7 +151,7 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #18BC9C;
+  background-color: #33ccff;
   color: white;
   border-color: #18BC9C;
 }
@@ -183,7 +183,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18BC9C;
+  background: #33ccff;
   color: white;
 }
 @media (max-width: 767px) {
@@ -368,7 +368,7 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #18BC9C;
+  background-color: #33ccff;
   border-color: #18BC9C;
   font-weight: 700;
 }
@@ -401,11 +401,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #33ccff;
+  border-color: #33ccff;
 }
 .btn-success .badge {
-  color: #18BC9C;
+  color: #33ccff;
   background-color: white;
 }
 .btn-social {
@@ -509,7 +509,7 @@ fieldset[disabled] .btn-success.active {
   position: absolute;
   left: 0px;
   top: 0px;
-  background: #18BC9C;
+  background: #33ccff;
   outline: 0;
   transition: top 0.1s ease-in, background 0.5s linear;
 }
