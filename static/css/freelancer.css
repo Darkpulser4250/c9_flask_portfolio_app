@@ -18,7 +18,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: #33ccff;
 }
 h1,
 h2,
@@ -68,7 +68,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #18BC9C;
+  background: #33ccff;
   color: white;
 }
 header .container {
@@ -153,7 +153,7 @@ header .intro-text .skills {
 .navbar-custom .navbar-toggle:focus {
   background-color: #33ccff;
   color: white;
-  border-color: #18BC9C;
+  border-color: #33ccff;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -286,7 +286,7 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: #33ccff;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -320,7 +320,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #18BC9C;
+  color: #33ccff;
   background: white;
   border: solid 2px white;
 }
@@ -369,7 +369,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-success {
   color: white;
   background-color: #33ccff;
-  border-color: #18BC9C;
+  border-color: #33ccff;
   font-weight: 700;
 }
 .btn-success:hover,
